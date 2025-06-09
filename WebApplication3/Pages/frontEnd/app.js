@@ -1,4 +1,4 @@
-const apiUrl = "https://localhost:5001/api/Produtos"; // Altere conforme a porta da sua API
+const apiUrl = "https://localhost:7129/api/Produtos"; // Altere conforme a porta da sua API
 
 document.addEventListener("DOMContentLoaded", () => {
   carregarProdutos();
